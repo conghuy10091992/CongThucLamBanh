@@ -4,89 +4,89 @@
   "debug": [
     {
       "name": "Home",
-      "url": "xxx"
+      "url": "/HomeDebug.json"
     }
   ],
   "release": [
     {
       "name": "Home",
-      "url": "xxx"
+      "url": "/Home.json"
     },
     {
       "name": "Action",
-      "url": "xxx"
+      "url": "/Action.json"
     },
     {
       "name": "Adventure",
-      "url": "xxx"
+      "url": "/Adventure.json"
     },
     {
       "name": "Anime",
-      "url": "xxx"
+      "url": "/Anime.json"
     },
     {
       "name": "Comic",
-      "url": "xxx"
+      "url": "/Comic.json"
     },
     {
       "name": "Cooking",
-      "url": "xxx"
+      "url": "/Cooking.json"
     },
     {
       "name": "Cổ Đại",
-      "url": "xxx"
+      "url": "/CoDai.json"
     },
     {
       "name": "Drama",
-      "url": "xxx"
+      "url": "/Drama.json"
     },
     {
       "name": "Fantasy",
-      "url": "xxx"
+      "url": "/Fantasy.json"
     },
     {
       "name": "Manga",
-      "url": "xxx"
+      "url": "/Manga.json"
     },
     {
       "name": "Manhua",
-      "url": "xxx"
+      "url": "/Manhua.json"
     },
     {
       "name": "Martial Arts",
-      "url": "xxx"
+      "url": "/MartialArts.json"
     },
     {
       "name": "Ngôn Tình",
-      "url": "xxx"
+      "url": "/NgonTinh.json"
     },
     {
       "name": "Romance",
-      "url": "xxx"
+      "url": "/Romance.json"
     },
     {
       "name": "School Life",
-      "url": "xxx"
+      "url": "/SchoolLife.json"
     },
     {
       "name": "Sports",
-      "url": "xxx"
+      "url": "/Sports.json"
     },
     {
       "name": "Thiếu Nhi",
-      "url": "xxx"
+      "url": "/ThieuNhi.json"
     },
     {
       "name": "Trinh Thám",
-      "url": "xxx"
+      "url": "/TrinhTham.json"
     },
     {
       "name": "Xuyên Không",
-      "url": "xxx"
+      "url": "/XuyenKhong.json"
     },
     {
       "name": "Đam Mỹ",
-      "url": "xxx"
+      "url": "/DamMy.json"
     }
   ]
 }
