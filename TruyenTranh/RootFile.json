@@ -1,0 +1,92 @@
+{
+  "version_app": 1,
+  "ads_flag": true,
+  "debug": [
+    {
+      "name": "Home",
+      "url": "xxx"
+    }
+  ],
+  "release": [
+    {
+      "name": "Home",
+      "url": "xxx"
+    },
+    {
+      "name": "Action",
+      "url": "xxx"
+    },
+    {
+      "name": "Adventure",
+      "url": "xxx"
+    },
+    {
+      "name": "Anime",
+      "url": "xxx"
+    },
+    {
+      "name": "Comic",
+      "url": "xxx"
+    },
+    {
+      "name": "Cooking",
+      "url": "xxx"
+    },
+    {
+      "name": "Cổ Đại",
+      "url": "xxx"
+    },
+    {
+      "name": "Drama",
+      "url": "xxx"
+    },
+    {
+      "name": "Fantasy",
+      "url": "xxx"
+    },
+    {
+      "name": "Manga",
+      "url": "xxx"
+    },
+    {
+      "name": "Manhua",
+      "url": "xxx"
+    },
+    {
+      "name": "Martial Arts",
+      "url": "xxx"
+    },
+    {
+      "name": "Ngôn Tình",
+      "url": "xxx"
+    },
+    {
+      "name": "Romance",
+      "url": "xxx"
+    },
+    {
+      "name": "School Life",
+      "url": "xxx"
+    },
+    {
+      "name": "Sports",
+      "url": "xxx"
+    },
+    {
+      "name": "Thiếu Nhi",
+      "url": "xxx"
+    },
+    {
+      "name": "Trinh Thám",
+      "url": "xxx"
+    },
+    {
+      "name": "Xuyên Không",
+      "url": "xxx"
+    },
+    {
+      "name": "Đam Mỹ",
+      "url": "xxx"
+    }
+  ]
+}
