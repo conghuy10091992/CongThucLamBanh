@@ -1,7 +1,7 @@
 {
   "shuffle": false,
   "version_app": 1,
-  "ads_flag": true,
+  "ads_flag": false,
   "debug": [
     {
       "name": "Home",
